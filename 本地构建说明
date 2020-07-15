@@ -1,3 +1,9 @@
 rm -rf _builds _steps _projects
+
+
 wercker build --git-domain github.com --git-owner sjfxy --git-repository  wrapped_hello
+
+github.com/sjfxy/wrapped_hello
+
+
 rm -rf _builds _steps _projects
