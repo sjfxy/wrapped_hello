@@ -61,8 +61,8 @@ build:
 deploy:
  steps:
    - internal/docker-push:
-       username: "sinfxy"
-       password: "sjlovefxy1314"
+       username: $DOCKER_USERNAME
+       password: $DCOKER_PASSWORD
        cmd: /pipeline/source/hello
        port: "8080"
        tag: latest
