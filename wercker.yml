@@ -5,7 +5,7 @@ dev:
     - setup-go-workspace:
         package-dir: github.com/cloudnativego/hello
 
-    - script:v
+    - script:
         name: env
         code: env
 
