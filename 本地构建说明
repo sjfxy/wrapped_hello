@@ -7,3 +7,72 @@ github.com/sjfxy/wrapped_hello
 
 
 rm -rf _builds _steps _projects
+
+
+所有的流程测试
+
+dev
+build
+test
+go-authtokem
+gp-代码检查
+go-对应的代码数据存储测试
+go-oauth进行定制对应的流程处理即可
+delpoy
+才有
+golang ruby lua rust elang nodejs python swoole
+java
+MysqlClodunative
+RedisCloudnative
+PgsqlClounative
+MongodbCloudnative
+MecacheadClounaitve
+InfluxDb
+Moby
+Promthus
+Gratha
+Dtabase/mysql
+Database/redis
+Database/pgsql
+数据存储
+内存
+缓存
+网络
+
+// Cloudnative-Go,Ruby,Rust,Erlang,Lua,Php,Nodejs,Python,Java,C++,Cloudnative
+// PHP-Eayswoole3.x Php-Swoftx2.x PHP-Mixphp2.1 PHP-Hyperf2.x Swoole PHP扩展
+// Php 的workman 的框架处理方式
+// PHP ReactPHP
+// PHP AynscPhp
+// Nodejs,Ruby,Lua,Python,Rust
+---
+数据存储
+内存
+缓存操作
+----
+Golang
+Elang
+Nodejs
+Python
+Swoole
+Rust
+Ruby
+Luajit
+Java
+C
+C++
+Javenetty
+Cloudnatibe
+C9
+Flutter
+ios
+androiud
+js
+reactjs
+vuejs
+mogodb
+
+
+
+
+
